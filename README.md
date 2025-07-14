@@ -9,11 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mohabcodex">GitHub</a> •
+  <a href="https://youtube.com/@mohabcodex">Youtube</a> •
   <a href="https://linkedin.com/in/mohabcodex">LinkedIn</a> •
   <a href="https://twitter.com/mohabcodex">Twitter</a> •
   <a href="https://instagram.com/mohabcodex">Instagram</a> •
-  <a href="https://youtube.com/@mohabcodex">Youtube</a> •
   <a href="mailto:mohabcodex@gmail.com">Email</a> 
 </p>
 
