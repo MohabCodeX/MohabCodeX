@@ -1,16 +1,35 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/mohabcodex">
+    <img src="https://i.postimg.cc/WpWsgXt6/laptop-with-glowing-screen-table-dark-top-view-copy-space.png" alt="Banner" />
+  </a>
+</p>
 
-<!--
-**MohabCodeX/MohabCodeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Driven by a love for clean, purposeful code, meaningful projects, and empowering others through shared knowledge.</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/mohabcodex">GitHub</a> •
+  <a href="https://linkedin.com/in/mohabcodex">LinkedIn</a> •
+  <a href="https://twitter.com/mohabcodex">Twitter</a> •
+  <a href="https://instagram.com/mohabcodex">Instagram</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,cpp,c,lua,md&perline=8" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,django,spring,mysql,sqlite&perline=8" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,notion,obsidian&perline=8" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=photoshop,premiere,ae,ai&perline=8" />
+  </a>
+</p>
+<hr>
+
+<p align="center">
+  <em>“Code with passion, share with purpose.”</em>
+</p>
